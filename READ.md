@@ -54,12 +54,11 @@
 
 ## 📫 Connect With Me  
 
-🌐 Portfolio: *https://chaokinyua.vercel.app/*  
-💼 [LinkedIn](https://www.linkedin.com/in/chao-kinyua-66713521a/)    
-📧 **ckinua33@gmail.com**  
+🌐 Portfolio: *Coming Soon*  
+💼 [LinkedIn](https://www.linkedin.com/)  
+🐦 [Twitter](https://twitter.com/)  
+📧 **your.email@example.com**  
 
 ---
 
 ⭐ *“The best way to predict the future is to create it.”* — Abraham Lincoln
-
-
