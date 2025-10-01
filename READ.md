@@ -54,10 +54,9 @@
 
 ## 📫 Connect With Me  
 
-🌐 Portfolio: *Coming Soon*  
-💼 [LinkedIn](https://www.linkedin.com/)  
-🐦 [Twitter](https://twitter.com/)  
-📧 **your.email@example.com**  
+🌐 Portfolio: *https://chaokinyua.vercel.app/*  
+💼 [LinkedIn](https://www.linkedin.com/in/chao-kinyua-66713521a/)  
+📧 **ckinyua33@gmail.com**  
 
 ---
 
